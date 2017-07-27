@@ -1,22 +1,29 @@
-# Compiled class file
-*.class
+# Eclipse related #
+###################
+.classpath
+.project
+.settings/
 
-# Log file
+# Compiled source files #
+#########################
+*.class
+*.dll
+*.exe
+
+# Log files #
+#############
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# DB files #
+############
+.sql
+.sqlite
 
 # Package Files #
+#################
 *.jar
 *.war
 *.ear
 *.zip
-*.tar.gz
+*.gz
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
