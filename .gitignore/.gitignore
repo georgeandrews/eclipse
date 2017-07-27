@@ -16,8 +16,8 @@
 
 # DB files #
 ############
-.sql
-.sqlite
+*.sql
+*.sqlite
 
 # Package Files #
 #################
